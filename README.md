@@ -1,16 +1,21 @@
-### Hi there 👋
+## 👋 Oi! Me chamo Thaís Sampaio 
 
-<!--
-**castrothais/castrothais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :woman_technologist: Estudante de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/)
+- Meus Hobbies:
+- :earth_americas: Viajar
+- :books: Estudar
+- :notes: Escutar Música
+- Apaixonada por inovação e Tecnologia
 
-Here are some ideas to get you started:
+##
+<a href="https://www.instagram.com/thaiscastros_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thaisdecastros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div>
+  
+![Thais GitHub stats](https://github-readme-stats.vercel.app/api?username=castrothais&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castrothais&theme=dracula)](https://github.com/castrothais/github-readme-stats)
+  
+</div>
