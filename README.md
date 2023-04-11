@@ -1,7 +1,8 @@
 ## 👋 Oi! Me chamo Thaís Sampaio, sou Desenvolvedora de software :brazil:
 
 :computer: Desenvolvedora Web Full Stack pela [Trybe](https://www.betrybe.com/). <br>
-:zap: Fun Fact: Formada em Engenharia Civil <br><br>
+:zap: Fun Fact: Formada em Engenharia Civil <br>
+:e-mail: E-mail para contato: thais_castrocs@outlook.com <br><br>
 <a href="https://www.linkedin.com/in/thaisdecastros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br>
 <br>
