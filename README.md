@@ -1,7 +1,5 @@
 Hi 👋, I'm Thaís Sampaio. A passionate software developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Travel +](https://github.com/castrothais/trip-planner)
-
 - 🌱 I’m currently learning **Information Systems at the Instituto Federal Sudeste Minas Gerais - Juiz de Fora.**
 
 - ⚡ Fun fact: **Graduated in Civil Engineering**
